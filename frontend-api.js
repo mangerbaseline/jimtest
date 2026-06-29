@@ -12,8 +12,8 @@
 // Supabase configuration
 // const SUPABASE_URL = "https://fujzkvrwnriqkcazwbns.supabase.co";
 // const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ1anprdnJ3bnJpcWtjYXp3Ym5zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODExNDYyNzMsImV4cCI6MjA5NjcyMjI3M30.nTd44OTh-ycdzJJmQX1c0UIYed8cimFUd3SpkbSFLFw";
-const SUPABASE_URL = "https://fujzkvrwnriqkcazwbns.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ1anprdnJ3bnJpcWtjYXp3Ym5zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODExNDYyNzMsImV4cCI6MjA5NjcyMjI3M30.nTd44OTh-ycdzJJmQX1c0UIYed8cimFUd3SpkbSFLFw";
+const SUPABASE_URL = "https://bwtandtfnzdinvelvpiy.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ3dGFuZHRmbnpkaW52ZWx2cGl5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODEwNzUwODIsImV4cCI6MjA5NjY1MTA4Mn0.0QNNuTjifPxJdu0EGpoHM7i6DCb3KGRUCkhIMfaW0Ts";
 
 // Initialize Supabase client
 const { createClient } = supabase;
